@@ -5,3 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/pacomgh/charla-mlsa-colombia.git
 git push -u origin main
+
+git config --global user.name "mi nombre"
+git config --global user.name "correo@loquesea.com"
